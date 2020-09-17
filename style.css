@@ -1,0 +1,16 @@
+h1, h2, h3, p
+{
+	margin-right: 360px;
+}
+h1, h2, h3, p
+{
+	margin-left: 360px;
+}
+blockquote, li
+{
+	margin-left: 380px;
+}
+h1, h2, h3, p, blockquote, li
+{
+	color: #444;
+}
