@@ -1,0 +1,101 @@
+h1, h2, h3, p
+{
+	margin-right: 280px;
+}
+h1, h2, h3, p
+{
+	margin-left: 280px;
+}
+blockquote, li
+{
+	margin-left: 300px;
+}
+h1, h2, h3, p, blockquote, li
+{
+	font-family: verdana;
+}
+h1
+{
+	font-size: 28px;
+}
+h2
+{
+	font-size: 22px;
+}
+p
+{
+	font-size: 15px;
+}
+.wrong
+{
+	color: red
+}
+.wrong
+{
+	text-decoration: underline;
+}
+.mfws
+{
+	color: darkred;
+}
+.mfw
+{
+	color: darkred;
+}
+.shitty
+{
+	color: blue;
+}
+.violet
+{
+	color: purple;
+}
+.well
+{
+	font-size: 10px;
+}
+.but
+{
+	font-size: 10px;
+}
+.which
+{
+	font-size: 10px;
+}
+.this
+{
+	font-size: 10px;
+}
+.flottant
+{
+	float: left;
+}
+.autreparagraphe
+{
+	clear: left;
+	font-size: 10px
+}
+.german
+{
+	font-size: 10px
+}
+.tbmfw
+{
+	color: darkred;
+}
+.citation
+{
+	font-size: 10px
+}
+.link
+{
+	color: darkred;
+}
+h1, h2, h3, p, blockquote, li
+{
+	color: #444;
+}
+.whatever
+{
+	font-family: courier
+}
